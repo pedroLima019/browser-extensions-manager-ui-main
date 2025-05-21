@@ -30,14 +30,9 @@ O objetivo deste desafio é desenvolver uma interface para gerenciar extensões 
 - Layout responsivo adaptado a diferentes tamanhos de tela
 - Estados visuais para foco e hover em elementos interativos
 
-### 🖼️ Screenshot
-
-*Adicione aqui uma imagem da interface do projeto (desktop e mobile).*
-
 ### 🔗 Links
 
-- **Repositório no GitHub:** [coloque o link aqui]
-- **Deploy do Projeto:** [coloque o link aqui]
+- **Repositório no GitHub:** (https://github.com/pedroLima019)
 
 ---
 
@@ -65,24 +60,7 @@ Melhorias que posso implementar futuramente:
 - Animações suaves nas interações
 - Testes com usuários para validar usabilidade
 
-### 📎 Recursos Úteis
 
-- [Documentação do TailwindCSS](https://tailwindcss.com/docs)
-- [MDN Web Docs – JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
----
-
-## 👨‍💻 Autor
-
-- **Pedro Henrique Lima**
-- [LinkedIn](https://www.linkedin.com/in/pedro-henrique-lima)
-- [Portfólio](https://seu-portfolio.com) <!-- Atualize com seu link real -->
-
----
-
-## 🙏 Agradecimentos
-
-Agradeço à comunidade do Frontend Mentor por oferecer desafios tão bem estruturados que impulsionam o aprendizado prático de front-end.
 
 
 
